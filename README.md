@@ -6,6 +6,21 @@ This framework helps track customer health across adoption, engagement, support 
 
 ---
 
+## Template Key
+
+Use the templates in this repo in this order:
+
+1. [Account Health Scorecard](template-01-account-health-scorecard.md)  
+   Use this to assess customer health across adoption, engagement, support, goals, and retention risk.
+
+2. [Risk Review Template](template-02-risk-review-template.md)  
+   Use this when an account shows warning signs and needs deeper review.
+
+3. [Customer Save Plan](template-03-customer-save-plan.md)  
+   Use this when a customer is at risk of churn, disengagement, cancellation, or non-renewal.
+
+---
+
 ## Purpose
 
 Customer health is more than product usage.
